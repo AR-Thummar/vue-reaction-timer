@@ -1,4 +1,4 @@
-# vue-life-cycle
+# vue-reaction-timer
 
 ## Project setup
 ```
